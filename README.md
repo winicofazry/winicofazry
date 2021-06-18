@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 Here's my skill
 
-Basic Programming
-Data Visualization with Python
-Data Scientist with Python
+- Basic Programming
+- Data Visualization with Python
+- Data Scientist with Python
 
